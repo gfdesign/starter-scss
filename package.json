@@ -1,0 +1,22 @@
+{
+  "name": "starter_pack",
+  "version": "1.0.0",
+  "description": "Starter Pack For Webtreepro Skins",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-sass": "*",
+    "gulp-sourcemaps": "*"
+  },
+  "dependencies": {
+    "bootstrap-sass": "^3.4.1"
+  }
+}

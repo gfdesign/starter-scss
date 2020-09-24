@@ -1,0 +1,14 @@
+// Set up the URL for Bootstrap icons (relative to default.css)
+// $icon-font-path: "../../skins/common/bootstrap3/fonts/";
+// Set up the URL for FontAwesome icons (relative to default.css)
+// $fa-font-path: "../../skins/common/fontawesome4/fonts";
+
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap.scss";
+
+$bg-color: #298187;
+$color: #FFF;
+
+body {
+  background: $bg-color;
+  color: $color;
+}
