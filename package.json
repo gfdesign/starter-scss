@@ -1,22 +1,23 @@
 {
-  "name": "starter_pack",
-  "version": "1.0.0",
-  "description": "Starter Pack For Webtreepro Skins",
-  "main": "index.js",
-  "scripts": {
-    "start": "gulp"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "",
-  "devDependencies": {
-    "browser-sync": "*",
-    "gulp": "*",
-    "gulp-autoprefixer": "*",
-    "gulp-sass": "*",
-    "gulp-sourcemaps": "*"
-  },
-  "dependencies": {
-    "bootstrap-sass": "^3.4.1"
-  }
+	"name": "starter_pack",
+	"version": "1.0.0",
+	"description": "Starter Pack For Webtreepro Skins",
+	"main": "index.js",
+	"scripts": {
+		"start": "gulp"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "",
+	"devDependencies": {
+		"browser-sync": "*",
+		"gulp": "4.0.2",
+		"gulp-autoprefixer": "*",
+		"gulp-sass": "^4.0.2",
+		"gulp-sourcemaps": "*",
+		"node-sass": "^6.0.1"
+	},
+	"dependencies": {
+		"bootstrap-sass": "^3.4.1"
+	}
 }
